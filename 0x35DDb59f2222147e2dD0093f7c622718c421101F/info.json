@@ -1,0 +1,11 @@
+{
+ "name": "Universal integral Cullinan",
+ "website": "https://www.highstreettv.com",
+ "description": "A leading multi-chain wallet that supports BSC.",
+ "explorer": "https://bscscan.com/token/0x35DDb59f2222147e2dD0093f7c622718c421101F",
+ "type": "BEP20",
+ "symbol": "UIC",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x35DDb59f2222147e2dD0093f7c622718c421101F"
+}
